@@ -1,0 +1,29 @@
+.btnNumber {
+    font-size: 2rem !important;
+}
+.btnPadding {
+    padding: 5px !important;
+}
+.number {
+    font-size: 2.25rem !important;
+    padding: 3px 20px;
+}
+.numberColor {
+    background-color: #c74f23 !important;
+    border: none !important;
+    font-weight: 900;
+}
+.greyButton {
+    background-color: #b3b3b3 !important;
+}
+.resultClass {
+    width: 100%;
+    background: grey;
+    text-align: right;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+input:focus {
+    outline: none;
+}
